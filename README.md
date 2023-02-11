@@ -99,7 +99,7 @@ sudo apt-get install doxygen-gui
 
 Now, ***Doxygen GUI*** will open as shown in figure below:
 
-![alt text](ImagesDocs/doxyGUI.png)
+![alt text](doxyGUI.png)
 
 Now choose the ***working directory from which doxygen will run*** in *Step 1* as shown in figure above. After choosing the folder path, Provide some information about the project you are documenting such as: **Project Name, Project synopsis, Project version or id, Project logo** (if any), and so on. After giving the information , now ***specify the directory to scan for source code*** in *Step 2* which means add the source code directory. Mark the box for ***scan recursively***. After this, ***specify the directory where doxygen should put the generated doucmentation*** i.e. ***Destination directory*** as shown in the figure above. In our case, desination directory is *_build*. Save this as ***Doxygen.in***.
 
@@ -135,7 +135,7 @@ Now, the generated *HTML* files, inside *_build/html* folder, chevk the detailed
 User Interface Module, detailed about the master node. 
 
 <p align="center">
-  <img width="1000" height="300" src="https://github.com/AmmarIqbal48/RT_2_Assignment_2_Documentation_Sphinx/blob/ff83db51104eb7f5f7e4f3f9f59a1cbaf53f1723/image3.png">
+  <img width="1000" height="600" src="https://github.com/AmmarIqbal48/RT_2_Assignment_2_Documentation_Sphinx/blob/ff83db51104eb7f5f7e4f3f9f59a1cbaf53f1723/image3.png">
 </p>
 
 Asitive Mode Module, detailed about the robot's operation 1 node.
